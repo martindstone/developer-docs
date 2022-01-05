@@ -3,7 +3,7 @@
     {
       "type": "item",
       "title": "Introduction",
-      "uri": "Introduction.md"
+      "uri": "docs/Introduction.md"
     },
     {
       "type": "group",
@@ -17,7 +17,7 @@
         {
           "type": "item",
           "title": "API Tools & Code Samples",
-          "uri": "tool-libraries/API-Tools-and-Code-Samples.md"
+          "uri": "docs/tool-libraries/API-Tools-and-Code-Samples.md"
         },
         {
           "type": "item",
